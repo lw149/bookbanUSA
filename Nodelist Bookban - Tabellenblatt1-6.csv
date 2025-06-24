@@ -1,0 +1,16 @@
+id,name,author,number_bans,theme
+1,NineteenMinutes,JodiPicoult,98,gewalt
+2,LookingforAlaska,JohnGreen,97,lgbtq
+3,ThePerksofBeingaWallflower,StephenChbosky,85,lgbtq
+4,Sold,PatriciaMcCormick,85,gewalt
+5,ThirteenReasonsWhy,JayAsher,76,gewalt
+6,Crank,EllenHopkins,76,sexuelle_inhalte
+7,Identical,EllenHopkins,74,sexuelle_inhalte
+8,TheKiteRunner,KhaledHosseini,73,rassismus
+9,TheHandmaidsTale,MargaretAtwood,67,rassismus
+10,WaterforElephants,SaraGruen,66,sexuelle_inhalte
+11,Tricks,EllenHopkins,66,lgbtq
+12,gewalt,,,gewalt
+13,lgbtq,,,lgbtq
+14,sexuelle_inhalte,,,sexuelle_inhalte
+15,rassismus,,,rassismus
