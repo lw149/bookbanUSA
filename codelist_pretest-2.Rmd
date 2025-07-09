@@ -1,0 +1,27 @@
+---
+title: "codelist_pretest"
+author: "Ben"
+date: "2025-07-09"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#codebuch Bookban
+
+**Edgelist**:
+from: Name des Buches/Staates
+to: Name des Buches/Staates
+relation: Gleiche_r Autor_in
+
+**Nodelist**:
+id: ID nummer der Knoten
+Name: Name des Buches oder Staat
+Typ: 
+1 = Buch, 
+2 = Bezirk
+Thema: Themen der Bücher
+1 =
+Partei: 1 = Republikaner, 2 = Demokraten
